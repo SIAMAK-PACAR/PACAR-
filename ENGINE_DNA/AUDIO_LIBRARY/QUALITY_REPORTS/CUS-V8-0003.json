@@ -1,0 +1,12 @@
+{
+  "peak_dbfs": -2.05,
+  "rms_dbfs": -8.06,
+  "integrated_lufs": -5.8,
+  "loudness_range_lu": 1.0,
+  "clipped_samples": 0,
+  "leading_silence_s": 0.0,
+  "trailing_silence_s": 0.0,
+  "noise_floor_dbfs": null,
+  "score": 10.0,
+  "issues": "ok"
+}

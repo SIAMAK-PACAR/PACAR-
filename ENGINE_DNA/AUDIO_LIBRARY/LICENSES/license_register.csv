@@ -1,0 +1,13 @@
+id,classification,asset_name,manufacturer,model,source_url,creator,license,attribution_text,commercial_ok,modification_ok,verification_status
+CUS-V10-0001,CUSTOM,V10 idle synthetic,,,,ENGINE DNA (procedural),ORIGINAL,,YES,YES,SYNTHETIC
+CUS-V10-0002,CUSTOM,V10 rev synthetic,,,,ENGINE DNA (procedural),ORIGINAL,,YES,YES,SYNTHETIC
+CUS-V10-0003,CUSTOM,V10 high synthetic,,,,ENGINE DNA (procedural),ORIGINAL,,YES,YES,SYNTHETIC
+CUS-V10-0004,CUSTOM,V10 startup synthetic,,,,ENGINE DNA (procedural),ORIGINAL,,YES,YES,SYNTHETIC
+CUS-V12-0001,CUSTOM,V12 idle synthetic,,,,ENGINE DNA (procedural),ORIGINAL,,YES,YES,SYNTHETIC
+CUS-V12-0002,CUSTOM,V12 rev synthetic,,,,ENGINE DNA (procedural),ORIGINAL,,YES,YES,SYNTHETIC
+CUS-V12-0003,CUSTOM,V12 high synthetic,,,,ENGINE DNA (procedural),ORIGINAL,,YES,YES,SYNTHETIC
+CUS-V12-0004,CUSTOM,V12 startup synthetic,,,,ENGINE DNA (procedural),ORIGINAL,,YES,YES,SYNTHETIC
+CUS-V8-0001,CUSTOM,V8_CROSSPLANE idle synthetic,,,,ENGINE DNA (procedural),ORIGINAL,,YES,YES,SYNTHETIC
+CUS-V8-0002,CUSTOM,V8_CROSSPLANE rev synthetic,,,,ENGINE DNA (procedural),ORIGINAL,,YES,YES,SYNTHETIC
+CUS-V8-0003,CUSTOM,V8_CROSSPLANE high synthetic,,,,ENGINE DNA (procedural),ORIGINAL,,YES,YES,SYNTHETIC
+CUS-V8-0004,CUSTOM,V8_CROSSPLANE startup synthetic,,,,ENGINE DNA (procedural),ORIGINAL,,YES,YES,SYNTHETIC
